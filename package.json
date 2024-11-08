@@ -7,7 +7,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js",
     "test": "jest",
-    "build": "echo 'Build script not defined'",
+    "build": "echo 'Building the project'",
     "install-deps": "npm install"
   },
   "keywords": [],
