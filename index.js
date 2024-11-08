@@ -50,7 +50,7 @@ const server = http.createServer((req, res) => {
         <p>Enjoy this simple, styled web page served directly from the Node.js server!</p>
       </div>
       <div class="footer">
-        <p>Running on Node.js with love & care 🧑‍💻</p>
+        <p>Running on Node.js with love $$ 🧑‍💻</p>
       </div>
     </body>
     </html>
